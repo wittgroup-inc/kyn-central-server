@@ -1,4 +1,4 @@
-package com.kyn.server;
+package com.wittgroup.kyn.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
