@@ -1,4 +1,4 @@
-package com.wittgroup.kyn.server;
+package com.gowittgroup.kyn.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
